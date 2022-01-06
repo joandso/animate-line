@@ -1,3 +1,5 @@
+<style>
+
 /* Animate Line */
 :root {
   --animate-line-color: currentColor;
@@ -34,3 +36,5 @@ border-color: currentColor;
          --animate-line-color: #131313;
         }
       }
+
+</style>
